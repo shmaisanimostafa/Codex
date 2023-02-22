@@ -1,6 +1,17 @@
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
+# This project allows you to Chat with an AI Bot without the need to log in...
+
+## Chat directly
+
+![Open AI CodeGPT](./2.png)
+![Open AI CodeGPT](./1.png)
 
 ### Link: https://codex-shmaisanimostafa.vercel.app/
 
+### Donate is appreciated! [Buy me a Coffee](https://www.buymeacoffee.com/shmaisanimstf)
 
- Thanks for Javascript Mastery and OpenAI for making this possible - https://www.jsmastery.pro
+---
+
+::: warning
+\*Thanks for Javascript Mastery and OpenAI for making this possible - https://www.jsmastery.pro
+
+- :::
