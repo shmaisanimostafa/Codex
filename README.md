@@ -3,4 +3,4 @@
 ### Link: https://codex-shmaisanimostafa.vercel.app/
 
 
-# Thanks for Javascript Mastery and OpenAI for making this possible - https://www.jsmastery.pro
+ Thanks for Javascript Mastery and OpenAI for making this possible - https://www.jsmastery.pro
