@@ -8,7 +8,7 @@
 
 
 
-### Donate is appreciated! [Buy me a Coffee](https://www.buymeacoffee.com/shmaisanimstf)
+### Donation is appreciated! [Buy me a Coffee](https://www.buymeacoffee.com/shmaisanimstf)
 
 ---
 
