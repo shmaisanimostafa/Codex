@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://codex-shmaisanimostafa.vercel.app/">
-    <img style="border-radius: 8px; border: 2px solid blue" src="./Screenshot.png">
+    <img  src="./Screenshot.png">
   </a>
 </p>
 
